@@ -47,7 +47,6 @@
 | <img alt="English" title="English" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gb.svg" width="22"> | [English](../README.md) |
 | <img alt="English (Pirate)" title="English (Pirate)" src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22"> | [English (Pirate)](README.en-pirate.md) |
 | <img alt="Türkçe" title="Türkçe" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tr.svg" width="22"> | [Türkçe](README.tr.md) |
-| <img alt="עברית" title="עברית" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/il.svg" width="22"> | [עברית](README.hb.md) |
 | <img alt="Bahasa Melayu / بهاس ملايو‎ / Malay" title="Bahasa Melayu / بهاس ملايو‎ / Malay" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/my.svg" width="22"> | [Bahasa Melayu / بهاس ملايو‎ / Malay](README.my.md) |
 | <img alt="Czech" title="Czech" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cz.svg" width="22"> | [Czech](README.cs.md) |
 | <img alt="Slovenščina" title="Slovenščina" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/si.svg" width="22"> | [Slovenščina](README.sl.md) |
