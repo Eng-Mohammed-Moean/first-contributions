@@ -2,7 +2,7 @@
 
 |                                                                                                                             | Translated Link          |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| <img alt="Palestine" title="Palestine" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ps.svg" width="22"> | [मराठी](README.mr.md)  |
+| <img alt="Palestine" title="Palestine" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ps.svg" width="22"> | [Mohammed Moeean](README.mr.md)  |
 | <img alt="ગુજરાતી" title="ગુજરાતી" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [ગુજરાતી](README.guj.md) |
 | <img alt="हिन्दी" title="हिन्दी" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">   | [हिन्दी](README.hi.md)   |
 | <img alt="मराठी" title="मराठी" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [हिन्दी](README.hi.md)   |
