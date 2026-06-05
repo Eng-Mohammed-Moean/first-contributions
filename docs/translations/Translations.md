@@ -2,15 +2,10 @@
 
 |                                                                                                                             | Translated Link          |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| <img alt="Palestine" title="Palestine" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ps.svg" width="22"> | [मराठी](README.mr.md)  |
 | <img alt="ગુજરાતી" title="ગુજરાતી" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [ગુજરાતી](README.guj.md) |
 | <img alt="हिन्दी" title="हिन्दी" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">   | [हिन्दी](README.hi.md)   |
-
-| <img alt="मराठी" title="मराठी" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">
-
-| <img alt="Palestine" title="Palestine" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ps.svg" width="22">
-
-                                    | [मराठी](README.mr.md)                                                 |
-
+| <img alt="मराठी" title="मराठी" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [हिन्दी](README.hi.md)   |
 | <img alt="മലയാളം" title="മലയാളം" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [മലയാളം](README.ml.md) |
 | <img alt="ಕನ್ನಡ" title="ಕನ್ನಡ" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [ಕನ್ನಡ](README.ka.md) |
 | <img alt="తెలుగు" title="తెలుగు" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [తెలుగు](README.te.md) |
